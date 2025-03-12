@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f4f5;
+}
+
+
+h1, h2 {
+    color: #333;
+}
+p, a {
+    color: #555;
+}
+.section {
+    margin-bottom: 20px;
+}
+.contact-info a {
+    text-decoration: none;
+    color: #007BFF;
+}
+ul {
+    padding-left: 20px;
+}
+ul li {
+    margin-bottom: 5px;
+}
